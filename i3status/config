@@ -1,0 +1,58 @@
+general {
+	output_format = "i3bar"
+	colors = false
+	interval = 1
+	color_good = '#2f343f'
+	color_degraded = '#ebcb8b'
+	color_bad = '#ba5e57'
+}
+
+order += "memory"
+order += "disk /home"
+order += "wireless wlp3s0"
+order += "battery 1"
+order += "volume master"
+order += "tztime local"
+
+general {
+	output_format = i3bar
+}
+
+memory {
+	format = "mem %used"
+}
+
+disk "/home" {
+	format = "df %free"
+}
+
+wireless wlp3s0 {
+	format_up = "%essid"
+	format_down = "Wi-Fi disconnected"
+}
+
+battery 1 {
+	last_full_capacity = true
+	format = "%status %percentage"
+	format_down = "no battery"
+	status_chr = "chr"
+	status_bat = "bat"
+	status_unk = "unk"
+	status_full = "full"
+	path = "/sys/class/power_supply/BAT%d/uevent"
+	low_threshold = 15
+}
+
+volume master {
+	format = "vol %volume"
+	format_muted = "Muted"
+	device = "default"
+	mixer = "Master"
+	mixer_idx = 0
+}
+
+tztime local {
+	format = "%time"
+	format_time = "%Y-%m-%d %H:%M:%S"
+}
+
