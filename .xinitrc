@@ -33,5 +33,5 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 xrandr --dpi 150
-feh --randomize --bg-fill /home/fartem/Pictures/Wallpapers/*
+feh --randomize --bg-fill $HOME/Pictures/Wallpapers/*
 exec i3
