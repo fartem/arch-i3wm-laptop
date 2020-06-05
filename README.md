@@ -11,7 +11,7 @@ Wallpapers: [DistroTube GitLab](https://gitlab.com/dwt1/wallpapers)
 dmenu
 -----------
 
-* Patches:
+Patches:
 
 - [line-height](https://tools.suckless.org/dmenu/patches/line-height/).
 
