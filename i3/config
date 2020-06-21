@@ -150,12 +150,13 @@ bar {
 
 for_window [class=".*"] border pixel 0
 
-client.focused 		#bf616a #2f343f #d8dee8 #bf616a #d8dee8
-client.focused_inactive	#2f343f #2f343f #d8dee8 #2f343f #2f343f
-client.unfocused 	#2f343f #2f343f #d8dee8 #2f343f #2f343f
-client.urgent		#2f343f #2f343f #d8dee8 #2f343f #2f343f
-client.placeholder	#2f343f #2f343f #d8dee8 #2f343f #2f343f
-client.background	#2f343f
-
 gaps inner 16
 
+# Theme colors
+# class                 border  backgr. text    indic.   child_border  
+client.focused          #556064 #556064 #80FFF9 #FDF6E3
+client.focused_inactive #2F3D44 #2F3D44 #AD69AF #454948
+client.unfocused        #2F3D44 #2F3D44 #AD69AF #454948
+client.urgent           #CB4B16 #FDF6E3 #AD69AF #268BD2
+client.placeholder      #000000 #0c0c0c #ffffff #000000
+client.background       #2B2C2B
