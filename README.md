@@ -1,3 +1,3 @@
 # i3wm-laptop
 
-![Desktop](screenshots/screenshot.png)
+![Desktop](screenshots/desktop.png)
