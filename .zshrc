@@ -102,6 +102,8 @@ source $ZSH/oh-my-zsh.sh
 export SDKMAN_DIR="/home/fartem/.sdkman"
 [[ -s "/home/fartem/.sdkman/bin/sdkman-init.sh" ]] && source "/home/fartem/.sdkman/bin/sdkman-init.sh"
 
+export SCRIPTS_DIR="/home/fartem/.scripts"
+
 alias pclear="sudo pacman -Rns \$(pacman -Qtdq)"
 
 [ -n "$XTERM_VERSION" ] && transset-df -a 0.97 --id "$WINDOWID" >/dev/null
