@@ -32,8 +32,8 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-$SCRIPTS_DIR/picom.rb &
+$SCRIPTS_DIR/set_picom.rb &
 $SCRIPTS_DIR/set_transparent.rb
 $SCRIPTS_DIR/set_scale.rb
-$SCRIPTS_DIR/feh.rb &
+$SCRIPTS_DIR/set_wallpapers.rb &
 exec i3
