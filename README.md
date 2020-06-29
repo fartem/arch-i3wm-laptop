@@ -21,9 +21,7 @@ i3wm configuration for laptop.
 * <kbd>Super</kbd>+<kbd>3</kbd> - open third Workspace
 * <kbd>Super</kbd>+<kbd>4</kbd> - open fourth Workspace
 
-## Desktop
+## Screenshots
 
 ![Desktop](screenshots/desktop.png)
-
-
 
