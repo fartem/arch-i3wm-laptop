@@ -1,0 +1,219 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/fartem/
+	..
+1593800190
+'b
+	/home/fartem/bin/
+	..
+1593800190
+'d
+	/home/fartem/Downloads
+	..
+1593800786
+'h
+	/home/fartem/
+	..
+1593800190
+'z
+	/home/fartem/.config/vifm
+	..
+1593800190
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/fartem
+	Android
+1
+d/home/fartem/Android
+	..
+0
+d/home/fartem
+	Desktop
+4
+d/home/fartem/Desktop
+	..
+0
+d/home/fartem
+	Downloads
+5
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem/Downloads/i3-config-master
+	..
+0
+d/home/fartem
+	Downloads
+5
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem
+	Downloads
+5
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem/Downloads/i3-config-master
+	..
+0
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem/Downloads/i3-config-master
+	..
+0
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	StudioProjects
+9
+d/home/fartem/StudioProjects
+	hash-checker
+5
+d/home/fartem/StudioProjects/hash-checker
+	gradlew
+12
+d/home/fartem
+	Downloads
+5
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem/Downloads/i3-config-master
+	..
+0
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem
+	Downloads
+15
+d/home/fartem/Downloads
+	i3-config-master
+2
+d/home/fartem/Downloads/i3-config-master
+	..
+0
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem/Downloads/Telegram Desktop
+	L.txt
+1
+d/home/fartem
+	.ssh
+17
+d/home/fartem/.ssh
+	..
+0
+d/home/fartem
+	Downloads
+18
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	Downloads
+18
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	Downloads
+18
+d/home
+	fartem
+1
+d/home/fartem
+	.mozilla
+4
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	Downloads
+20
+d/home
+	fartem
+1
+d/home/fartem
+	Downloads
+20
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	Downloads
+20
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	vifm
+17
+d/home/fartem/.config/vifm
+	colors
+1
+d/home/fartem/.config/vifm/colors
+	Default.vifm
+1
+d
+
+# Right window history (oldest to newest):
+D/home/fartem
+	Projects
+8
+D/home/fartem/Projects
+	i3wm-laptop
+5
+D/home/fartem/Projects/i3wm-laptop
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:marks
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+p.ssh
+pL.txt
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

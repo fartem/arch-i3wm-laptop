@@ -1,43 +1,42 @@
-*foreground: #bbc5ff
-*background: #282a36
+*foreground: #C0C0C0
+*background: #101010
 *cursorColor: #bbc5ff
 
-! black
+! black/dark-gray
 *.color0: #101010
-*.color8: #434758
+*.color8: #454545
 
-! red
-*.color1: #f07178
-*.color9: #ff8b92
+! red/orange
+*.color1: #EC6962
+*.color9: #E0AF85
 
-! green
-*.color2: #c3e88d
-*.color10: #ddffa7
+! green/aquamarine
+*.color2: #80C990
+*.color10: #5ACCAF
 
-! yellow
-*.color3: #ffcb6b
-*.color11: #ffe585
+! amber/yellow
+*.color3: #A69460
+*.color11: #C8C874
 
-! blue
-*.color4: #82aaff
-*.color12: #9cc4ff
+! blue/violet
+*.color4: #A3B8EF
+*.color12: #CCACED
 
-! magenta
-*.color5: #c792ea
-*.color13: #e1acff
+! magenta/rose
+*.color5: #E6A3DC
+*.color13: #F2A1C2
 
-! cyan
-*.color6: #89ddff
-*.color14: #a3f7ff
+! cyan/azure
+*.color6: #50CACD
+*.color14: #74C3E4
 
-! white
-*.color7: #d0d0d0
-*.color15: #ffffff
+! gray/white
+*.color7: #808080
+*.color15: #C0C0C0
 
 ! Font
 *faceName: JetBrainsMono-Regular
 *faceSize: 10
-*faceColor: c3
 
 ! Cursor
 Xcursor.theme: Breeze_Snow

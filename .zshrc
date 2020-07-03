@@ -106,4 +106,4 @@ export SCRIPTS_DIR="/home/fartem/.scripts"
 
 alias pclear="sudo pacman -Rns \$(pacman -Qtdq)"
 
-[ -n "$XTERM_VERSION" ] && transset-df -a 0.97 --id "$WINDOWID" >/dev/null
+[ -n "$XTERM_VERSION" ] && transset-df -a 0.9 --id "$WINDOWID" >/dev/null
