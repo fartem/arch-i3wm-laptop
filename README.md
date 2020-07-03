@@ -8,6 +8,7 @@ i3wm configuration for laptop.
 
 * <kbd>Super</kbd>+<kbd>Enter</kbd> - open a terminal (now - XTerm)
 * <kbd>Super</kbd>+<kbd>d</kbd> - open dmenu
+* <kbd>Super</kbd>+<kbd>f</kbd> - fullscreen mode for current window
 
 ### Containers
 
