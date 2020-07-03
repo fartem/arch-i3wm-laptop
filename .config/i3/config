@@ -139,14 +139,14 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-	i3bar_command i3bar -t 
-	status_command i3status
-	position top
-	colors {
-		background #101010D9
-	}
-}
+#bar {
+	#i3bar_command i3bar -t
+	#status_command i3status
+	#position top
+	#colors {
+	#	background #101010D9
+	#}
+#}
 
 for_window [class=".*"] border pixel 1
 

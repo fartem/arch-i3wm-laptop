@@ -1,0 +1,120 @@
+[bar/top]
+width = 100%
+height = 38
+
+background = #D9101010
+foreground = ${xrdb:color15}
+
+line-size = 3
+line-color = ${xrdb:color5}
+
+border-size = 0
+border-color = #00000000
+
+separator-foreground = 1
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = "JetBrainsMono-Regular:size=12;4"
+
+modules-left = i3
+modules-right = memory filesystem wlan eth battery alsa date xkeyboard
+
+tray-position = right
+tray-padding = 2
+;tray-background = #0063ff
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+index-sort = true
+wrapping-scroll = false
+
+label-mode-padding = 1
+label-mode-foreground = #000
+label-mode-background = ${xrdb:color5}
+
+label-focused = %index%
+label-focused-background = ${xrdb:color3}
+label-focused-underline= ${xrdb:color15}
+label-focused-padding = 1
+
+label-unfocused = %index%
+label-unfocused-padding = 1
+
+label-visible = %index%
+label-visible-background = ${self.label-focused-background}
+label-visible-underline = ${self.label-focused-underline}
+label-visible-padding = ${self.label-focused-padding}
+
+label-urgent = %index%
+label-urgent-background = ${xrdb:color1}
+label-urgent-padding = 1
+
+[module/memory]
+type = internal/memory
+label = mem %mb_used%
+
+[module/filesystem]
+type = internal/fs
+interval = 60
+
+mount-0 = /home
+
+label-mounted = df %free%
+label-unmounted = %mountpoint% not mounted
+
+[module/wlan]
+type = internal/network
+interface = wlp3s0
+interval = 3
+
+label-connected = %essid%
+
+format-disconnected = Disconnected
+
+[module/eth]
+type = internal/network
+interface = enp0s31f6
+interval = 3
+
+label-connected = %local_ip%
+
+format-disconnected =
+
+[module/battery]
+type = internal/battery
+battery = BAT1
+adapter = AC
+full-at = 98
+time-format = %H:%M
+
+label-charging = bat chr %percentage%%
+label-discharging = bat %percentage%%
+label-full = bat full
+
+[module/alsa]
+type = internal/alsa
+
+label-volume = vol %percentage%%
+
+label-muted = Muted
+
+[module/date]
+type = internal/date
+interval = 5
+
+date = "%Y-%m-%d"
+time = %H:%M:%S
+
+label = %date% %time%
+
+[module/xkeyboard]
+type = internal/xkeyboard
+
+label-layout = %layout%
+
+; vim:ft=dosini
