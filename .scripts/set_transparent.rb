@@ -1,4 +1,4 @@
 #!/bin/ruby
 
-`transset-df -a 0.95`
+`transset-df -a 0.9`
 

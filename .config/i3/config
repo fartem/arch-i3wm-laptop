@@ -27,7 +27,11 @@ bindsym $mod+Return exec i3-sensible-terminal
 # kill focused window
 bindsym $mod+Shift+q kill
 
+# start a application launcher
 bindsym $mod+d exec rofi -show run -theme theme
+
+# make screenshot
+bindsym $mod+Print exec $SCRIPTS_DIR/make_screenshot.rb
 
 # change focus
 bindsym $mod+j focus left
@@ -149,7 +153,7 @@ gaps inner 16
 
 # Theme colors
 # class                 border  backgr. text    indic.   child_border  
-client.focused          #556064 #556064 #80FFF9 #FDF6E3
+client.focused          #A69460 #A69460 #80FFF9 #A69460
 client.focused_inactive #2F3D44 #2F3D44 #AD69AF #454948
 client.unfocused        #2F3D44 #2F3D44 #AD69AF #454948
 client.urgent           #CB4B16 #FDF6E3 #AD69AF #268BD2
