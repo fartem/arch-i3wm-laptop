@@ -1,0 +1,24 @@
+* {
+	background-color:	transparent;
+	border-color:		#556064;
+	text-color:			#C0C0C0;
+	font:				"JetBrainsMono Regular 14";
+}
+
+window {
+	background-color:	#101010D9;
+	border: 1px;
+}
+
+inputbar {
+	padding: 5px;
+}
+
+element {
+	padding: 5px;
+}
+
+element selected {
+	background-color: #A69460;
+}
+
