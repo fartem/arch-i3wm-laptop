@@ -26,6 +26,4 @@ i3wm configuration for laptop.
 ## Screenshots
 
 ![screenshot_01](screenshots/screenshot_01.png)
-![screenshot_02](screenshots/screenshot_02.png)
-![screenshot_03](screenshots/screenshot_03.png)
 
