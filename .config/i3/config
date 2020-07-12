@@ -137,7 +137,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 for_window [class=".*"] border pixel 1
-for_window [class="XTerm"] floating enable, resize set 1200px 800px
+for_window [class="XTerm"] floating enable, resize set 1200px 800px, move position center
 
 gaps inner 16
 
