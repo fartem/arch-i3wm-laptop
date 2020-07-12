@@ -35,7 +35,7 @@
 *.color15: #C0C0C0
 
 ! Font
-*faceName: JetBrainsMono-Regular
+*faceName: JetBrainsMono Nerd Font
 *faceSize: 10
 
 ! Cursor

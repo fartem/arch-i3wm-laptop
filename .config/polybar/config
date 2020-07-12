@@ -15,7 +15,7 @@ separator-foreground = 1
 module-margin-left = 1
 module-margin-right = 1
 
-font-0 = "JetBrainsMono-Regular:size=12;4"
+font-0 = "JetBrainsMono Nerd Font:size=12;4"
 
 modules-left = i3
 modules-right = memory filesystem wlan eth battery alsa date xkeyboard
@@ -55,7 +55,7 @@ label-urgent-padding = 1
 
 [module/memory]
 type = internal/memory
-label = mem %mb_used%
+label = %{F#5ACCAF} %mb_used%%{F-}
 
 [module/filesystem]
 type = internal/fs
@@ -63,7 +63,7 @@ interval = 60
 
 mount-0 = /home
 
-label-mounted = df %free%
+label-mounted = %{F#A3B8EF} %free%%{F-}
 label-unmounted = %mountpoint% not mounted
 
 [module/wlan]
@@ -71,9 +71,9 @@ type = internal/network
 interface = wlp3s0
 interval = 3
 
-label-connected = %essid%
+label-connected = %{F#CCACED}直 %essid%%{F-}
 
-format-disconnected = Disconnected
+format-disconnected = %{F#CCACED}睊 Disconnected%{F-}
 
 [module/eth]
 type = internal/network
@@ -91,16 +91,16 @@ adapter = AC
 full-at = 98
 time-format = %H:%M
 
-label-charging = bat chr %percentage%%
-label-discharging = bat %percentage%% %time%
-label-full = bat full
+label-charging = %{F#E6A3DC} %percentage%%%{F-}
+label-discharging = %{F#E6A3DC} %percentage%% (%time%)%{F-}
+label-full = %{F#E6A3DC}%{F-}
 
 [module/alsa]
 type = internal/alsa
 
-label-volume = vol %percentage%%
+label-volume = %{F#C8C874}奄 %percentage%%%{F-}
 
-label-muted = Muted
+label-muted = %{F#C8C874}婢%{F-}
 
 [module/date]
 type = internal/date
@@ -108,11 +108,11 @@ type = internal/date
 date = "%Y-%m-%d"
 time = %H:%M:%S
 
-label = %date% %time%
+label =  %date%  %time%
 
 [module/xkeyboard]
 type = internal/xkeyboard
 
-label-layout = %layout%
+label-layout = %{F#50CACD}韛 %layout%%{F-}
 
 ; vim:ft=dosini
