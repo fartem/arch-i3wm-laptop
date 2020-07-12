@@ -2,7 +2,7 @@
 	background-color:	transparent;
 	border-color:		#A69460;
 	text-color:			#C0C0C0;
-	font:				"JetBrainsMono Regular 14";
+	font:				"JetBrainsMono Nerd Font 14";
 }
 
 window {
