@@ -28,7 +28,7 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+Shift+q kill
 
 # start a application launcher
-bindsym $mod+d exec rofi -show run -theme theme
+bindsym $mod+Shift+d exec rofi -show run -theme theme
 
 # make screenshot
 bindsym $mod+Print exec $SCRIPTS_DIR/make_screenshot.rb
@@ -91,10 +91,10 @@ set $ws3 "3:web"
 set $ws4 "4:media"
 
 # switch to workspace
-bindsym $mod+1 workspace number $ws1
-bindsym $mod+2 workspace number $ws2
-bindsym $mod+3 workspace number $ws3
-bindsym $mod+4 workspace number $ws4
+bindsym $mod+t workspace number $ws1
+bindsym $mod+d workspace number $ws2
+bindsym $mod+i workspace number $ws3
+bindsym $mod+m workspace number $ws4
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
