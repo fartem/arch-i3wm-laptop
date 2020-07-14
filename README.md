@@ -7,7 +7,7 @@ i3wm configuration for laptop.
 ### Programs
 
 * <kbd>Super</kbd>+<kbd>Enter</kbd> - open a terminal (now - XTerm)
-* <kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd> - open Rofi
+* <kbd>Super</kbd>+<kbd>d</kbd> - open Rofi
 * <kbd>Super</kbd>+<kbd>f</kbd> - fullscreen mode for current window
 * <kbd>Super</kbd>+<kbd>Print</kbd> - make screenshot (now - maim)
 
@@ -18,10 +18,10 @@ i3wm configuration for laptop.
 
 ### Navigation
 
-* <kbd>Super</kbd>+<kbd>t</kbd> - open Workspace for Terminal
-* <kbd>Super</kbd>+<kbd>d</kbd> - open Workspace for Development
-* <kbd>Super</kbd>+<kbd>i</kbd> - open Workspace for Web
-* <kbd>Super</kbd>+<kbd>m</kbd> - open Workspace for Media
+* <kbd>Super</kbd>+<kbd>1</kbd> - open Workspace for Terminal
+* <kbd>Super</kbd>+<kbd>2</kbd> - open Workspace for Development
+* <kbd>Super</kbd>+<kbd>3</kbd> - open Workspace for Web
+* <kbd>Super</kbd>+<kbd>4</kbd> - open Workspace for Media
 
 ## Screenshots
 

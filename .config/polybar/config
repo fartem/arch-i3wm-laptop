@@ -113,6 +113,6 @@ label =  %date%  %time%
 [module/xkeyboard]
 type = internal/xkeyboard
 
-label-layout = %{F#50CACD} %layout%%{F-}
+label-layout = %{F#50CACD}爵 %layout%%{F-}
 
 ; vim:ft=dosini
