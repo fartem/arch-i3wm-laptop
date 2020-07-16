@@ -108,7 +108,9 @@ alias pclear="sudo pacman -Rns \$(pacman -Qtdq)"
 
 [ -n "$XTERM_VERSION" ] && transset-df -a 0.9 --id "$WINDOWID" >/dev/null
 
-if systemctl -q is-active graphical.target && [[ ! $DISPLAY && $XDG_VTNR -eq 1 ]]; then
+if systemctl -q is-active graphical.target && [[ ! $DISPLAY && $XDG_VTNR -eq 1 && $(tty) == "/dev/tty1" ]]; then
 	exec startx
 fi
+
+export PATH=$PATH:/home/fartem/Development/flutter/bin
 
