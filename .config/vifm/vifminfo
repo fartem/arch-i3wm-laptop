@@ -9,16 +9,16 @@
 	/home/fartem/bin/
 	..
 1593800190
+'c
+	/home/fartem/.config
+	..
+1593801741
 'd
 	/home/fartem/Downloads
 	..
 1593800786
 'h
 	/home/fartem/
-	..
-1593800190
-'z
-	/home/fartem/.config/vifm
 	..
 1593800190
 
@@ -35,129 +35,6 @@ r2
 
 # Left window history (oldest to newest):
 d/home/fartem
-	Android
-1
-d/home/fartem/Android
-	..
-0
-d/home/fartem
-	Desktop
-4
-d/home/fartem/Desktop
-	..
-0
-d/home/fartem
-	Downloads
-5
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem/Downloads/i3-config-master
-	..
-0
-d/home/fartem
-	Downloads
-5
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem
-	Downloads
-5
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem/Downloads/i3-config-master
-	..
-0
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem/Downloads/i3-config-master
-	..
-0
-d/home/fartem/Downloads
-	..
-0
-d/home/fartem
-	StudioProjects
-9
-d/home/fartem/StudioProjects
-	hash-checker
-5
-d/home/fartem/StudioProjects/hash-checker
-	gradlew
-12
-d/home/fartem
-	Downloads
-5
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem/Downloads/i3-config-master
-	..
-0
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem
-	Downloads
-15
-d/home/fartem/Downloads
-	i3-config-master
-2
-d/home/fartem/Downloads/i3-config-master
-	..
-0
-d/home/fartem/Downloads
-	Telegram Desktop
-1
-d/home/fartem/Downloads/Telegram Desktop
-	L.txt
-1
-d/home/fartem
-	.ssh
-17
-d/home/fartem/.ssh
-	..
-0
-d/home/fartem
-	Downloads
-18
-d/home/fartem/Downloads
-	..
-0
-d/home/fartem
-	Downloads
-18
-d/home/fartem/Downloads
-	..
-0
-d/home/fartem
-	Downloads
-18
-d/home
-	fartem
-1
-d/home/fartem
-	.mozilla
-4
-d/home/fartem/Downloads
-	..
-0
-d/home/fartem
-	Downloads
-20
-d/home
-	fartem
-1
-d/home/fartem
-	Downloads
-20
-d/home/fartem/Downloads
-	..
-0
-d/home/fartem
 	Downloads
 20
 d/home/fartem/Downloads
@@ -173,11 +50,407 @@ d/home/fartem/.config/vifm
 	colors
 1
 d/home/fartem/.config/vifm/colors
-	Default.vifm
+	..
+0
+d/home/fartem
+	.ssh
+17
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	i3
+9
+d/home/fartem/.config/i3
+	..
+0
+d/home/fartem/.config
+	i3
+9
+d/home/fartem/.config/i3
+	..
+0
+d/home/fartem/.config
+	i3status
+10
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	..
+0
+d/home/fartem
+	.AndroidStudio4.0
 1
+d/home/fartem/.config
+	vifm
+17
+d/home/fartem/.config/vifm
+	vifminfo
+4
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	GIMP
+2
+d/home/fartem
+	.scripts
+4
+d/home/fartem/.config
+	dconf
+5
+d/home/fartem
+	.icons
+9
+d/home/fartem/.config
+	vlc
+19
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	vlc
+19
+d/home/fartem/.config/vlc
+	vlcrc
+1
+d/home/fartem/.config
+	yay
+19
+d/home/fartem
+	.thunderbird
+18
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem/Downloads/Telegram Desktop
+	L.txt
+1
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem
+	.torrents
+20
+d/home
+	fartem
+1
+d/home/fartem
+	.torrents
+20
+d/home/fartem/.torrents
+	..
+0
+d/home/fartem
+	Downloads
+4
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem
+	Pictures
+5
+d/home/fartem/Pictures
+	..
+0
+d/home/fartem
+	Programs
+6
+d/home/fartem/Programs
+	..
+0
+d/home/fartem
+	Projects
+7
+d/home/fartem/Projects
+	..
+0
+d/home/fartem
+	Projects
+7
+d/home/fartem/Downloads
+	..
+0
+d/home/fartem
+	Downloads
+4
+d/home/fartem/Downloads
+	hash-checker-key.jks
+3
+d/home/fartem/.config
+	i3
+9
+d/home/fartem
+	.config
+4
+d/home/fartem/.config
+	dconf
+6
+d/home/fartem
+	Desktop
+27
+d/home/fartem/Desktop
+	..
+0
+d/home/fartem
+	.zshrc
+35
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem/Downloads/Telegram Desktop
+	..
+0
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem
+	Books
+4
+d/home/fartem/.config
+	JetBrains
+3
+d/home/fartem/.config/JetBrains
+	..
+0
+d/home/fartem/.config
+	picom
+15
+d/home/fartem
+	Pictures
+29
+d/home/fartem/Pictures
+	Screenshots
+2
+d/home/fartem/Pictures/Screenshots
+	..
+0
+d/home/fartem/Pictures
+	Screenshots
+2
+d/home/fartem/Pictures/Screenshots
+	..
+0
+d/home/fartem/Downloads
+	Telegram Desktop
+1
+d/home/fartem/.config
+	i3
+10
+d/home/fartem/.config/i3
+	config
+1
+d/home/fartem/Downloads
+	screenshot_01.png
+8
+d/home/fartem
+	Downloads
+28
+d/home
+	fartem
+1
+d/home/fartem
+	Projects
+31
+d/home/fartem/Projects
+	minfo
+11
+d/home/fartem/Projects/minfo
+	..
+0
+d/home/fartem/Projects
+	nerd-fonts
+12
+d/home/fartem/Projects/nerd-fonts
+	..
+0
+d/home/fartem/Downloads
+	screenshot_01.png
+9
+d/home/fartem/.config
+	..
+0
+d/home/fartem
+	.sdkman
+17
+d/home/fartem/.config
+	i3
+13
+d/home/fartem/.config/i3
+	config
+1
+d/home/fartem/.config
+	i3
+13
+d/home/fartem/.config/i3
+	config
+1
+d/home/fartem
+	.viminfo
+16
+d/home/fartem/.config
+	neofetch
+17
+d/home/fartem/.config/neofetch
+	..
+0
+d/home/fartem/.config
+	neofetch
+17
+d/home/fartem/Downloads
+	diaries.db
+9
+d/home/fartem/.config
+	polybar
+19
+d/home/fartem/.config/polybar
+	..
+0
+d/home/fartem/.config
+	polybar
+19
+d/home/fartem/.config/polybar
+	config
+1
+d/home/fartem
+	Projects
+6
+d/home/fartem/Projects
+	ide-settings
+9
+d/home/fartem/Projects/ide-settings
+	android_studio
+2
+d/home/fartem/Projects/ide-settings/android_studio
+	..
+0
+d/home/fartem/.config
+	rofi
+20
+d/home/fartem
+	.zshrc
+25
 d
 
 # Right window history (oldest to newest):
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects
+	i3wm-laptop
+5
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop/.config/vifm
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop/.config/vifm
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem
+	StudioProjects
+9
+D/home/fartem/StudioProjects
+	..
+0
+D/home/fartem
+	StudioProjects
+9
+D/home/fartem/StudioProjects
+	parse-android-test-app
+7
+D/home/fartem/StudioProjects/parse-android-test-app
+	app
+5
+D/home/fartem/StudioProjects/parse-android-test-app/app
+	build
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build
+	generated
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/generated
+	source
+3
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/generated/source
+	..
+0
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/generated
+	source
+3
+D/home/fartem/StudioProjects/parse-android-test-app/app/build
+	outputs
+4
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs
+	apk
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/apk
+	fake
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/apk/fake
+	debug
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/apk/fake/debug
+	parse-android-test-app-fake-debug_4.2.0.apk
+2
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/apk/fake
+	debug
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/apk
+	fake
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs
+	bundle
+2
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/bundle
+	fakeDebug
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/bundle/fakeDebug
+	app-fake-debug.aab
+1
+D/home/fartem/StudioProjects/parse-android-test-app/app/build/outputs/bundle
+	fakeDebug
+1
+D/home/fartem
+	Programs
+7
+D/home/fartem/Programs
+	..
+0
 D/home/fartem
 	Projects
 8
@@ -185,27 +458,283 @@ D/home/fartem/Projects
 	i3wm-laptop
 5
 D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
 	..
 0
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	wallpapers
+5
+D/home/fartem/Projects/i3wm-laptop/wallpapers
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	vifm
+7
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	screenshot_01.png!
+1
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects
+	i3wm-laptop
+8
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	screenshot_01.png
+1
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects
+	i3wm-laptop
+8
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3
+1
+D/home/fartem/Projects/i3wm-laptop/.config/i3
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	polybar
+5
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	rofi
+6
+D/home/fartem/Projects/i3wm-laptop/.config/rofi
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3status
+2
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects
+	ide-settings
+9
+D/home/fartem/Projects/ide-settings
+	vim
+4
+D/home/fartem/Projects/ide-settings/vim
+	..
+0
+D/home/fartem/Projects/ide-settings
+	vim
+4
+D/home/fartem/Projects/ide-settings/vim
+	..
+0
+D/home/fartem/Projects/ide-settings
+	vim
+4
+D/home/fartem/Projects
+	i3wm-laptop
+8
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3status
+2
+D/home/fartem/Projects/i3wm-laptop/.config/i3status
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3status
+2
+D/home/fartem/Projects/i3wm-laptop/.config/i3status
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3status
+2
+D/home/fartem/Projects/i3wm-laptop/.config/i3status
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	i3status
+2
+D/home/fartem/Projects/i3wm-laptop
+	screenshots
+4
+D/home/fartem/Projects/i3wm-laptop/screenshots
+	..
+0
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects
+	i3wm-laptop
+8
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem/Projects/i3wm-laptop/.config
+	polybar
+5
+D/home/fartem/Projects/i3wm-laptop/.config/polybar
+	..
+0
+D/home/fartem/Projects/i3wm-laptop/.config
+	polybar
+5
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
+D/home/fartem
+	.zshrc
+24
+D/home
+	fartem
+1
+D/home/fartem
+	Projects
+9
+D/home/fartem/Projects
+	i3wm-laptop
+8
+D/home/fartem/Projects/i3wm-laptop
+	.config
+1
 D
 
 # Command line history (oldest to newest):
 :marks
+:mkdir vifm
+:git status
+:/git status
+:!git status
 :q
+:move
+:rename
+:!unzip compresspng.zip
+:mkdir wallpapers
+:copy
+:move screenshot_01.png
+:move screenshot_01.png!
+:copy!
 
 # Search history (oldest to newest):
 
 # Prompt history (oldest to newest):
 p.ssh
 pL.txt
+pscreenshot_02.png
+pscreenshot_03.png
+pscreenshot_04.png
+pw
+pScreenshot 2020-07-02 at 21.30.47.png
+pwallpaper_01.png
+pscreenshot_01.pn
+pscreenshot_01.png
+pJetBrainsMono-Bold-Italic.ttf
+pJetBrainsMono-Bold.ttf
+pJetBrainsMono-ExtraBold-Italic.ttf
+pJetBrainsMono-ExtraBold.ttf
+pJetBrainsMono-Italic.ttf
+pJetBrainsMono-Medium-Italic.ttf
+pJetBrainsMono-Medium.ttf
+pJetBrainsMono-Regular.ttf
 
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/fartem/.local/share/vifm/Trash/000_settings.zip
 
 # Directory stack (oldest to newest):
 
 # Trash content:
+t/home/fartem/.local/share/vifm/Trash/000_UC-f2109489-03ad-41b2-bed1-cb248a270686.jpg
+	/home/fartem/Downloads/UC-f2109489-03ad-41b2-bed1-cb248a270686.jpg
+t/home/fartem/.local/share/vifm/Trash/000_bn_github.png
+	/home/fartem/Downloads/bn_github.png
+t/home/fartem/.local/share/vifm/Trash/000_bn_google_play.png
+	/home/fartem/Projects/i3wm-laptop/.config/bn_google_play.png
+t/home/fartem/.local/share/vifm/Trash/000_mc
+	/home/fartem/.config/mc
+t/home/fartem/.local/share/vifm/Trash/000_vlc
+	/home/fartem/.config/vlc
+t/home/fartem/.local/share/vifm/Trash/000_desktop.png
+	/home/fartem/Projects/i3wm-laptop/screenshots/desktop.png
+t/home/fartem/.local/share/vifm/Trash/000_C:\Users\artem\StudioProjects
+	/home/fartem/C:\Users\artem\StudioProjects
+t/home/fartem/.local/share/vifm/Trash/000_VirtualBox VMs
+	/home/fartem/VirtualBox VMs
+t/home/fartem/.local/share/vifm/Trash/000_VirtualBox
+	/home/fartem/.config/VirtualBox
+t/home/fartem/.local/share/vifm/Trash/000_parse-android-test-app-fake-debug_4.2.0.aab
+	/home/fartem/Desktop/parse-android-test-app-fake-debug_4.2.0.aab
+t/home/fartem/.local/share/vifm/Trash/000_parse-android-test-app-fake-debug_4.2.0.apk
+	/home/fartem/Desktop/parse-android-test-app-fake-debug_4.2.0.apk
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_05_07_2020_15_13_18-min.png
+	/home/fartem/Downloads/screenshot_05_07_2020_15_13_18-min.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_05_07_2020_15_14_18-min.png
+	/home/fartem/Downloads/screenshot_05_07_2020_15_14_18-min.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_05_07_2020_15_16_39-min.png
+	/home/fartem/Downloads/screenshot_05_07_2020_15_16_39-min.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_05_07_2020_15_16_56-min.png
+	/home/fartem/Downloads/screenshot_05_07_2020_15_16_56-min.png
+t/home/fartem/.local/share/vifm/Trash/000_compresspng.zip
+	/home/fartem/Downloads/compresspng.zip
+t/home/fartem/.local/share/vifm/Trash/000_Screenshot 2020-07-02 at 21.30.47(2).png
+	/home/fartem/Downloads/Telegram Desktop/Screenshot 2020-07-02 at 21.30.47(2).png
+t/home/fartem/.local/share/vifm/Trash/000_Screenshot 2020-07-02 at 21.30.47(1).png
+	/home/fartem/Downloads/Telegram Desktop/Screenshot 2020-07-02 at 21.30.47(1).png
+t/home/fartem/.local/share/vifm/Trash/000_wallpapers
+	/home/fartem/Projects/i3wm-laptop/wallpapers
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_02.png
+	/home/fartem/Projects/i3wm-laptop/screenshots/screenshot_02.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_03.png
+	/home/fartem/Projects/i3wm-laptop/screenshots/screenshot_03.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_01.png
+	/home/fartem/Projects/i3wm-laptop/screenshots/screenshot_01.png
+t/home/fartem/.local/share/vifm/Trash/000_screenshot_01(1).png!
+	/home/fartem/Projects/i3wm-laptop/screenshots/screenshot_01(1).png!
+t/home/fartem/.local/share/vifm/Trash/000_JetBrains Mono Regular Nerd Font.ttf
+	/home/fartem/Projects/nerd-fonts/JetBrains Mono Regular Nerd Font.ttf
+t/home/fartem/.local/share/vifm/Trash/000_settings.zip
+	/home/fartem/settings.zip
 
 # State:
 f

@@ -116,3 +116,4 @@ type = internal/xkeyboard
 label-layout = %{F#50CACD}爵 %layout%%{F-}
 
 ; vim:ft=dosini
+

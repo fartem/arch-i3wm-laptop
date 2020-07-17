@@ -38,3 +38,4 @@ $SCRIPTS_DIR/set_scale.rb
 $SCRIPTS_DIR/set_wallpapers.rb &
 $SCRIPTS_DIR/set_bar.rb &
 exec i3
+
