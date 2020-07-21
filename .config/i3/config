@@ -2,6 +2,8 @@ set $mod Mod4
 
 font pango:JetBrainsMono 8
 
+# xss-lick grabs a logind suspend inhibit lock and will use i3lock to lock
+# the screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
@@ -127,9 +129,10 @@ gaps inner 16
 
 # Theme colors
 # class                 border  backgr. text    indic.   child_border  
-client.focused          #A69460 #A69460 #80FFF9 #A69460
+client.focused          #74C3E4 #74C3E4 #80FFF9 #74C3E4
 client.focused_inactive #2F3D44 #2F3D44 #AD69AF #454948
 client.unfocused        #2F3D44 #2F3D44 #AD69AF #454948
 client.urgent           #CB4B16 #FDF6E3 #AD69AF #268BD2
 client.placeholder      #000000 #0c0c0c #ffffff #000000
 client.background       #101010
+

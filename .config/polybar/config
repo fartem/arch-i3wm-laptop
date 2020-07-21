@@ -5,7 +5,6 @@ height = 38
 background = #D9101010
 foreground = ${xrdb:color15}
 
-line-size = 4
 line-color = ${xrdb:color5}
 
 border-size = 0
@@ -36,9 +35,8 @@ label-mode-padding = 1
 label-mode-foreground = #000
 label-mode-background = ${xrdb:color5}
 
-label-focused = %index%:%name%
-label-focused-background = ${xrdb:color3}
-label-focused-underline= ${xrdb:color15}
+label-focused = %{F#101010}%index%:%name%%{F-}
+label-focused-background = ${xrdb:color14}
 label-focused-padding = 1
 
 label-unfocused = %index%:%name%
@@ -46,7 +44,6 @@ label-unfocused-padding = 1
 
 label-visible = %index%:%name%
 label-visible-background = ${self.label-focused-background}
-label-visible-underline = ${self.label-focused-underline}
 label-visible-padding = ${self.label-focused-padding}
 
 label-urgent = %index%:%name%
@@ -56,7 +53,6 @@ label-urgent-padding = 1
 [module/memory]
 type = internal/memory
 label = %{F#E0AF85} %mb_used%%{F-}
-format-underline = #EC6962
 
 [module/filesystem]
 type = internal/fs
@@ -65,8 +61,6 @@ interval = 60
 mount-0 = /home
 
 label-mounted = %{F#5ACCAF} %free%%{F-}
-format-mounted-underline = #80C990
-
 label-unmounted = %mountpoint% not mounted
 
 [module/wlan]
@@ -75,8 +69,6 @@ interface = wlp3s0
 interval = 3
 
 label-connected = %{F#CCACED}直 %essid%%{F-}
-format-connected-underline = #CCACED
-
 format-disconnected = %{F#CCACED}睊 Disconnected%{F-}
 
 [module/eth]
@@ -85,7 +77,6 @@ interface = enp0s31f6
 interval = 3
 
 label-connected = %local_ip%
-
 format-disconnected =
 
 [module/battery]
@@ -96,22 +87,14 @@ full-at = 98
 time-format = %H:%M
 
 label-charging = %{F#E6A3DC} %percentage%%%{F-}
-format-charging-underline = #F2A1C2
-
 label-discharging = %{F#E6A3DC} %percentage%% (%time%)%{F-}
-format-discharging-underline = #F2A1C2
-
 label-full = %{F#E6A3DC}%{F-}
-format-full-underline = #F2A1C2
 
 [module/alsa]
 type = internal/alsa
 
 label-volume = %{F#50CACD}奄 %percentage%%%{F-}
-format-volume-underline = #74C3E4
-
 label-muted = %{F#50CACD}婢 muted%{F-}
-format-muted-underline = #74C3E4
 
 [module/date]
 type = internal/date
@@ -120,13 +103,11 @@ date = "%Y-%m-%d"
 time = %H:%M:%S
 
 label =  %date%  %time%
-format-underline = #808080
 
 [module/xkeyboard]
 type = internal/xkeyboard
 
 label-layout = %{F#A69460}爵 %layout%%{F-}
-format-underline = #C8C874
 
 ; vim:ft=dosini
 
