@@ -86,9 +86,24 @@ adapter = AC
 full-at = 100
 time-format = %H:%M
 
-label-charging = %{F#E6A3DC} %percentage%%%{F-}
-label-discharging = %{F#E6A3DC} %percentage%% (%time%)%{F-}
+format-charging = <animation-charging> <label-charging>
+format-discharging = <ramp-capacity> <label-discharging>
+
+label-charging = %{F#E6A3DC}%percentage%%%{F-}
+label-discharging = %{F#E6A3DC}%percentage%% (%time%)%{F-}
 label-full = %{F#E6A3DC} full%{F-}
+
+animation-charging-0 = %{F#E6A3DC}%{F-}
+animation-charging-1 = %{F#E6A3DC}%{F-}
+animation-charging-2 = %{F#E6A3DC}%{F-}
+animation-charging-3 = %{F#E6A3DC}%{F-}
+animation-charging-4 = %{F#E6A3DC}%{F-}
+
+ramp-capacity-0 = %{F#E6A3DC}%{F-}
+ramp-capacity-1 = %{F#E6A3DC}%{F-}
+ramp-capacity-2 = %{F#E6A3DC}%{F-}
+ramp-capacity-3 = %{F#E6A3DC}%{F-}
+ramp-capacity-4 = %{F#E6A3DC}%{F-}
 
 [module/alsa]
 type = internal/alsa
