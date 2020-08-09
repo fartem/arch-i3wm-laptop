@@ -15,6 +15,7 @@ module-margin-left = 1
 module-margin-right = 1
 
 font-0 = "JetBrainsMono Nerd Font:size=12;4"
+font-1 = "Noto Color Emoji:scale=10;4"
 
 modules-left = i3
 modules-right = memory filesystem wlan eth battery alsa date xkeyboard
@@ -52,7 +53,7 @@ label-urgent-padding = 1
 
 [module/memory]
 type = internal/memory
-label = %{F#E0AF85} %mb_used%%{F-}
+label = 💻 %mb_used%
 
 [module/filesystem]
 type = internal/fs
@@ -60,7 +61,7 @@ interval = 60
 
 mount-0 = /home
 
-label-mounted = %{F#5ACCAF} %free%%{F-}
+label-mounted = 📂 %free%
 label-unmounted = %mountpoint% not mounted
 
 [module/wlan]
@@ -68,8 +69,8 @@ type = internal/network
 interface = wlp3s0
 interval = 3
 
-label-connected = %{F#CCACED}直 %essid%%{F-}
-format-disconnected = %{F#CCACED}睊 Disconnected%{F-}
+label-connected = 📶 %essid%
+format-disconnected = Disconnected
 
 [module/eth]
 type = internal/network
@@ -86,30 +87,20 @@ adapter = AC
 full-at = 100
 time-format = %H:%M
 
-format-charging = <animation-charging> <label-charging>
-format-discharging = <ramp-capacity> <label-discharging>
-
-label-charging = %{F#E6A3DC}%percentage%%%{F-}
-label-discharging = %{F#E6A3DC}%percentage%% (%time%)%{F-}
-label-full = %{F#E6A3DC} full%{F-}
-
-animation-charging-0 = %{F#E6A3DC}%{F-}
-animation-charging-1 = %{F#E6A3DC}%{F-}
-animation-charging-2 = %{F#E6A3DC}%{F-}
-animation-charging-3 = %{F#E6A3DC}%{F-}
-animation-charging-4 = %{F#E6A3DC}%{F-}
-
-ramp-capacity-0 = %{F#E6A3DC}%{F-}
-ramp-capacity-1 = %{F#E6A3DC}%{F-}
-ramp-capacity-2 = %{F#E6A3DC}%{F-}
-ramp-capacity-3 = %{F#E6A3DC}%{F-}
-ramp-capacity-4 = %{F#E6A3DC}%{F-}
+label-charging = ⚡ %percentage%
+label-discharging = 🔋 %percentage% (%time%)
+label-full = 🔌 full
 
 [module/alsa]
 type = internal/alsa
+format-volume = <ramp-volume> <label-volume>
 
-label-volume = %{F#50CACD}奄 %percentage%%%{F-}
-label-muted = %{F#50CACD}婢 muted%{F-}
+label-volume = %percentage%
+label-muted = 🔇 muted
+
+ramp-volume-0 = 🔈
+ramp-volume-1 = 🔉
+ramp-volume-2 = 🔊
 
 [module/date]
 type = internal/date
@@ -117,12 +108,16 @@ type = internal/date
 date = "%Y-%m-%d"
 time = %H:%M:%S
 
-label =  %date%  %time%
+label = ⏲ %date% 🗓 %time%
 
 [module/xkeyboard]
 type = internal/xkeyboard
 
-label-layout = %{F#A69460}爵 %layout%%{F-}
+layout-icon-0 = us;󾓦
+layout-icon-1 = ru;󾓬
+
+label-icon-0 = 󾓦
+
+label-layout = %icon%
 
 ; vim:ft=dosini
-
