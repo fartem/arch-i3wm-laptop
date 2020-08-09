@@ -1,6 +1,13 @@
 # i3wm-laptop
 
+## About
+
 i3wm configuration for laptop.
+
+## Fonts
+
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono) with icons from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+* [Noto Color Emoji](https://www.google.com/get/noto/help/emoji)
 
 ## Bingings
 
