@@ -87,8 +87,8 @@ adapter = AC
 full-at = 100
 time-format = %H:%M
 
-label-charging = ⚡ %percentage%
-label-discharging = 🔋 %percentage% (%time%)
+label-charging = ⚡ %percentage%%
+label-discharging = 🔋 %percentage%% (%time%)
 label-full = 🔌 full
 
 [module/alsa]
