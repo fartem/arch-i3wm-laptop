@@ -95,7 +95,7 @@ label-full = 🔌 full
 type = internal/alsa
 format-volume = <ramp-volume> <label-volume>
 
-label-volume = %percentage%
+label-volume = %percentage%%
 label-muted = 🔇 muted
 
 ramp-volume-0 = 🔈
