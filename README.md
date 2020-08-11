@@ -1,4 +1,4 @@
-# i3wm-laptop
+# arch-i3wm-laptop
 
 ## About
 
